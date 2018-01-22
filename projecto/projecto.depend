@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516353882 source:e:\purogrammu\projecto\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
